@@ -1,6 +1,6 @@
 # Hausman Barber Shop Website
 
-A website developed for the already established, Hausman Barber Shop as part of the IS229 Web Design assessment (A2)
+This is a website basic html and css structure, its nothing extraprdianry, but just something simple that like, represents the simple things provided in the business, of the IS229 Web Design assessment (A2)
 
 ## Project Details
 - Course: IS229 - Web Design (Basic website)
