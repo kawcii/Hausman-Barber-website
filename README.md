@@ -16,7 +16,7 @@ This is a website basic html and css structure, its nothing extraordianry, but j
 5. `contact.html` - Appointment booking form, so that you can appoint your schedule hair cut.
 
 ## HTML Validation Evidence
-All the pages were checked using nu html checker rather and, ive verified to be free of structural HTML errors.
+All the pages were checked using nu html checker, and it verified to be free of structural HTML errors.
 
 ## AI Use Declaration
 AI tools (Gemini) were used during this project for guidance on project structure, basic CSS styling, and HTML starter scaffolding. All final implementation and testing were verified on, own idea.
