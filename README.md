@@ -20,3 +20,7 @@ All pages were checked using the W3C Markup Validation Service and verified to b
 
 ## AI Use Declaration
 AI tools (Gemini) were used during this project for guidance on project structure, basic CSS styling, and HTML starter scaffolding. All final implementation and testing were verified independently.
+
+GitHub Repository URL: [https://github.com/kawcii/Hausman-Barber-website](https://github.com/kawcii/Hausman-Barber-website)
+
+Published Website URL: [https://kawcii.github.io/Hausman-Barber-website/](https://kawcii.github.io/Hausman-Barber-website/)
